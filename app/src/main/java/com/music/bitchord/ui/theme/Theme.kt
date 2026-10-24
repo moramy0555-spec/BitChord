@@ -23,8 +23,8 @@ import com.music.bitchord.R
 val AccentRed = Color(0xFFFA2D48)
 
 private val DarkColors = darkColorScheme(
-    primary = Color.White,
-    onPrimary = Color.Black,
+    primary = Color(0xFF1E88E5),
+    onPrimary = Color.White,
     background = Color.Black,
     onBackground = Color.White,
     surface = Color(0xFF0D0D0F),
